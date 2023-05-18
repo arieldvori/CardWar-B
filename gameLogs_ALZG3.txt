@@ -1,0 +1,22 @@
+Alice played 7 of Hearts Bob played Ace of Diamonds. Bob wins.
+Alice played 7 of Spades Bob played 6 of Diamonds. Alice wins.
+Alice played 4 of Diamonds Bob played 6 of Spades. Bob wins.
+Alice played 9 of Clubs Bob played 9 of Hearts. Drow. Alice played 2 of Clubs Bob played 8 of Spades. Bob wins.
+Alice played 5 of Diamonds Bob played Queen of Clubs. Bob wins.
+Alice played 10 of Clubs Bob played Ace of Clubs. Bob wins.
+Alice played 9 of Diamonds Bob played 4 of Clubs. Alice wins.
+Alice played King of Spades Bob played 5 of Hearts. Alice wins.
+Alice played 8 of Diamonds Bob played Jack of Spades. Bob wins.
+Alice played 6 of Clubs Bob played 5 of Clubs. Alice wins.
+Alice played 4 of Spades Bob played 10 of Diamonds. Bob wins.
+Alice played Jack of Hearts Bob played 5 of Spades. Alice wins.
+Alice played 3 of Hearts Bob played 2 of Hearts. Alice wins.
+Alice played 4 of Hearts Bob played 6 of Hearts. Bob wins.
+Alice played Queen of Diamonds Bob played Queen of Hearts. Drow. Alice played 3 of Diamonds Bob played Jack of Clubs. Bob wins.
+Alice played 7 of Diamonds Bob played King of Diamonds. Bob wins.
+Alice played King of Hearts Bob played 2 of Diamonds. Alice wins.
+Alice played 10 of Hearts Bob played 3 of Clubs. Alice wins.
+Alice played 2 of Spades Bob played 3 of Spades. Bob wins.
+Alice played 7 of Clubs Bob played Ace of Spades. Bob wins.
+Alice played Queen of Spades Bob played King of Clubs. Bob wins.
+Alice played 10 of Spades Bob played Jack of Diamonds. Bob wins.

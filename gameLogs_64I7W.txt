@@ -1,0 +1,5 @@
+Alice played 5 of Clubs Bob played 8 of Clubs. Bob wins.
+Alice played 10 of Diamonds Bob played 9 of Spades. Alice wins.
+Alice played Ace of Hearts Bob played 6 of Clubs. Alice wins.
+Alice played 9 of Hearts Bob played 8 of Spades. Alice wins.
+Alice played Queen of Hearts Bob played Queen of Clubs. Drow. Alice played 7 of Clubs Bob played 10 of Hearts. Bob wins.
